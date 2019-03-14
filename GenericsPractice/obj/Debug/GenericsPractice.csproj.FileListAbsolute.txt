@@ -1,0 +1,10 @@
+c:\users\турмаханд\source\repos\GenericsPractice\GenericsPractice\obj\Debug\GenericsPractice.csprojAssemblyReference.cache
+c:\users\турмаханд\source\repos\GenericsPractice\GenericsPractice\obj\Debug\GenericsPractice.csproj.CoreCompileInputs.cache
+c:\users\турмаханд\source\repos\GenericsPractice\GenericsPractice\bin\Debug\GenericsPractice.exe.config
+c:\users\турмаханд\source\repos\GenericsPractice\GenericsPractice\bin\Debug\GenericsPractice.exe
+c:\users\турмаханд\source\repos\GenericsPractice\GenericsPractice\bin\Debug\GenericsPractice.pdb
+c:\users\турмаханд\source\repos\GenericsPractice\GenericsPractice\obj\Debug\GenericsPractice.exe
+c:\users\турмаханд\source\repos\GenericsPractice\GenericsPractice\obj\Debug\GenericsPractice.pdb
+c:\users\турмаханд\source\repos\GenericsPractice\GenericsPractice\bin\Debug\Windows.Forms.HintTextBox.dll
+c:\users\турмаханд\source\repos\GenericsPractice\GenericsPractice\bin\Debug\Windows.Forms.HintTextBox.pdb
+c:\users\турмаханд\source\repos\GenericsPractice\GenericsPractice\obj\Debug\GenericsPractice.csproj.CopyComplete
